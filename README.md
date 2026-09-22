@@ -25,5 +25,8 @@ La aplicación permite ingresar el **nombre** y la **matrícula** de un estudian
 
 Practicar el uso de **JavaFX**, eventos, controles gráficos y la integración de una clase de Java con una interfaz gráfica.
 
+### Evidencia de la práctica
+![Interfaz del programa](Capturas/CapturaFX.png)
+
 > Desarrollado por: **Jorge Otilio Salazar Díaz**.
 >> Diseño y Programación Orientada a Objetos
