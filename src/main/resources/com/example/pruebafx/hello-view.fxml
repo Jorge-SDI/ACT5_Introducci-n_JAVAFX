@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="10.0"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.pruebafx.HelloController">
+
+    <Label text="Registro de estudiante: "/>
+
+    <TextField fx:id="txtNombre" promptText="Nombre" maxWidth="250"/>
+
+    <TextField fx:id="txtMatricula" promptText="Matrícula" maxWidth="250"/>
+
+    <Button text="Registrar" onAction="#registrarEstudiante" translateX="-85"/>
+
+    <Label fx:id="lblResultado"/>
+
+</VBox>
