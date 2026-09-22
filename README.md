@@ -28,5 +28,13 @@ Practicar el uso de **JavaFX**, eventos, controles gráficos y la integración d
 ### Evidencia de la práctica
 ![Interfaz del programa](Capturas/CapturaFX.png)
 
+## ¿Qué ventaja tiene usar una clase Estudiante en lugar de manejar todo directamente desde los TextField? Menciona 2 elementos de POO utilizados...
+> La ventaja es que la clase Estudiante permite organizar y representar los datos del estudiante como un objeto, separando los datos de la interfaz gráfica. Esto hace que el código sea más ordenado y fácil de modificar o reutilizar.
+2 conceptos de POO utilizados:
+> - Encapsulamiento: los atributos nombre y matricula son privados y se accede a ellos mediante métodos get.
+> - Abstracción: la clase Estudiante representa solamente las características necesarias de un estudiante, como su nombre y matrícula.
+
+### Información extra
+
 > Desarrollado por: **Jorge Otilio Salazar Díaz**.
 >> Diseño y Programación Orientada a Objetos
